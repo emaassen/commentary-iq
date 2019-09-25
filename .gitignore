@@ -1,0 +1,11 @@
+# writing files
+/writing/
+
+# misc files
+*.txt
+*.rar
+*.Rhistory
+*.Rdata
+*.bib
+*.docx
+*.Rmd
