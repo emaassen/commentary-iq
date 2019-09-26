@@ -26,7 +26,14 @@ devtools::session_info()
 ```
 \setlength\parindent{34pt}
 
-\vspace{60pt}
+\vspace{30pt}
+
+\centerline{Accepted manuscript}
+\centerline{Published in Journal of Applied Research in Memory and Cognition}
+\centerline{https://doi.org/10.1016/j.jarmac.2019.06.007}
+
+\vspace{40pt}
+
 \noindent Corresponding author 
 
 Esther Maassen
