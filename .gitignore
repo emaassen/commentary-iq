@@ -1,3 +1,7 @@
+# irrelevant files
+/writing/cover-letter.pdf
+/writing/author-statement.pdf
+
 # misc files
 *.txt
 *.rar
@@ -5,5 +9,5 @@
 *.Rdata
 *.bib
 *.docx
-*.Rmd
-*.pdf
+*.out
+*.aux
