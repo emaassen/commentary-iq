@@ -6,7 +6,7 @@
 simdata <- function(lambda1, lambda2, lambda3, alpha, nobs, n, q, k) {
   
   # Fixed values for all simulations
-  phi <- c(1,1)                                                             # latent variable variances
+  phi <- c(1)                                                             # latent variable variances
   nu.1 <- c(0,0,0)  													                              # Intercepts for all indicators are 0 in group 1
   nu.2 <- c(0,0,0)												                                # Intercept 3 varies over condition
   

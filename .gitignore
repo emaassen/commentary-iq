@@ -7,7 +7,6 @@
 *.rar
 *.Rhistory
 *.Rdata
-*.bib
 *.docx
 *.out
 *.aux
